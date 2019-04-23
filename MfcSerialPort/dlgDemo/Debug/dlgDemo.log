@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  dlgDemoDlg.cpp
+c:\users\mark\desktop\x图像串口\x图像上位机vs2017版\x图像上位机vs2017版\dlgdemo\colorpropertydlg.h(29): warning C4091: “static ”: 没有声明变量时忽略“CColorPropertyDlg::Device_ColorProp”的左侧
+  dlgDemo.vcxproj -> C:\Users\Mark\Desktop\X图像串口\X图像上位机vs2017版\X图像上位机vs2017版\dlgDemo\.\Debug\dlgDemo.exe
